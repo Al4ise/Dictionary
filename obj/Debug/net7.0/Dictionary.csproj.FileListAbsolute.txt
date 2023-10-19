@@ -1,0 +1,14 @@
+/home/mpelteshki24/Dictionary/bin/Debug/net7.0/Dictionary
+/home/mpelteshki24/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/home/mpelteshki24/Dictionary/bin/Debug/net7.0/Dictionary.runtimeconfig.json
+/home/mpelteshki24/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/home/mpelteshki24/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/home/mpelteshki24/Dictionary/obj/Debug/net7.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpelteshki24/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/home/mpelteshki24/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.cs
+/home/mpelteshki24/Dictionary/obj/Debug/net7.0/Dictionary.csproj.CoreCompileInputs.cache
+/home/mpelteshki24/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/home/mpelteshki24/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/home/mpelteshki24/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/home/mpelteshki24/Dictionary/obj/Debug/net7.0/Dictionary.genruntimeconfig.cache
+/home/mpelteshki24/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll
